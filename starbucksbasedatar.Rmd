@@ -1,0 +1,59 @@
+---
+title: "starbucksbasedata"
+author: "Abbie Natkin"
+date: '2022-09-25'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+```
+
+```{r}
+worldstarbucks_raw <- read.csv("https://www.macalester.edu/~ajohns24/data/starbucks.csv")
+```
+
+```{r}
+starbucksUS <- worldstarbucks_raw %>%
+  filter(Country == "US", 
+         Brand == "Starbucks") %>%
+  mutate(appear = c(1)) %>%
+  group_by(`State.Province`) %>%
+  summarise(StarbsbyState = sum(appear))
+```
+
+
+```{r}
+starbucks = read.csv("C:/Users/catni/Documents/2022 Fall/Survival Analysis/project/sbwu_elections.csv")
+```
+
+
+```{r}
+governors = read.csv("C:/Users/catni/Documents/2022 Fall/Survival Analysis/project/govaffilwithabbrev.csv")
+```
+
+
+```{r}
+starbswithgov = merge(starbucks, governors, by.x = "State", by.y = "state_abbrev")
+```
+
+
+```{r}
+starbswithgovwithnumbystate = merge(starbswithgov, starbucksUS, by.x = "State", by.y = "State.Province")
+```
+
+
+```{r}
+length(unique(starbucks$State))
+
+
+UnionStatewithTotal <- starbswithgovwithnumbystate %>%
+  mutate(appear = c(1)) %>%
+  group_by(State, StarbsbyState) %>%
+  summarise(UnionizedbyState = sum(appear))
+
+```
+
+
+

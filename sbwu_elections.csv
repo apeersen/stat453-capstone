@@ -1,0 +1,259 @@
+Store,Location,State,RTWState,FileDate,VoteCountDate,FileToCountDays,VotesYes,VotesNo,VoteTotal,EligibleVoters,Turnout,Margin,YesPercent,Result
+Elmwood,"Buffalo, NY",NY,No,8/30/2021,12/9/2021,101,19,8,27,36,0.7500,0.4074,0.7037,Yes
+Genessee St,"Buffalo, NY",NY,No,8/30/2021,12/9/2021,101,15,9,24,46,0.5217,0.2500,0.6250,Yes
+Camp Road Hamburg,"Buffalo, NY",NY,No,8/30/2021,12/9/2021,101,8,12,20,30,0.6667,-0.2000,0.4000,No
+Power & Baseline Road,"Mesa, AZ",AZ,Yes,11/18/2021,2/25/2022,99,25,3,28,43,0.6512,0.7857,0.8929,Yes
+Sheridan & Bailey,"Buffalo, NY",NY,No,11/9/2021,3/9/2022,120,15,12,27,44,0.6136,0.1111,0.5556,Yes
+Transit Commons / Depew,"Buffalo, NY",NY,No,11/9/2021,3/9/2022,120,15,12,27,37,0.7297,0.1111,0.5556,Yes
+Broadway & Denny,"Seattle, WA",WA,No,12/20/2021,3/22/2022,92,9,0,9,13,0.6923,1.0000,1.0000,Yes
+Crismon & Southern,"Mesa, AZ",AZ,Yes,1/18/2022,3/25/2022,66,11,3,14,28,0.5000,0.5714,0.7857,Yes
+I-75 at Merchant Drive,"Knoxville, TN",TN,Yes,12/27/2021,3/29/2022,92,8,7,15,27,0.5556,0.0667,0.5333,Yes
+New York Reserve Roastery,"New York, NY",NY,No,2/9/2022,4/1/2022,51,46,36,82,86,0.9535,0.1220,0.5610,Yes
+Delaware & Chippewa,"Buffalo, NY",NY,No,1/31/2022,4/7/2022,66,18,1,19,27,0.7037,0.8947,0.9474,Yes
+Mount Hope Ave,"Rochester, NY",NY,No,1/31/2022,4/7/2022,66,13,11,24,41,0.5854,0.0833,0.5417,Yes
+Brighton Monroe & Clover,"Rochester, NY",NY,No,1/31/2022,4/7/2022,66,10,3,13,30,0.4333,0.5385,0.7692,Yes
+College Ave,"Ithaca, NY",NY,No,1/31/2022,4/8/2022,67,19,1,20,27,0.7407,0.9000,0.9500,Yes
+Commons,"Ithaca, NY",NY,No,1/31/2022,4/8/2022,67,15,1,16,25,0.6400,0.8750,0.9375,Yes
+Meadow St,"Ithaca, NY",NY,No,1/31/2022,4/8/2022,67,13,1,14,27,0.5185,0.8571,0.9286,Yes
+Overland Park - 75th & I-35,"Overland Park, KS",KS,Yes,1/31/2022,4/8/2022,67,6,1,7,20,0.3500,0.7143,0.8571,Yes
+Harvard St,"Boston, MA",MA,No,12/13/2021,4/11/2022,119,14,0,14,21,0.6667,1.0000,1.0000,Yes
+Commonwealth Ave,"Boston, MA",MA,No,1/13/2022,4/11/2022,88,11,0,11,29,0.3793,1.0000,1.0000,Yes
+"Bloomfield, Liberty Ave","Pittsburgh, PA",PA,No,1/7/2022,4/13/2022,96,20,0,20,22,0.9091,1.0000,1.0000,Yes
+29th & Willamette,"Eugene, OR",OR,No,2/11/2022,4/13/2022,61,17,0,17,28,0.6071,1.0000,1.0000,Yes
+Huntsman Square,"Springfield, VA",VA,Yes,2/22/2022,4/14/2022,51,8,10,18,22,0.8182,-0.1111,0.4444,No
+Midlothian & Carmia Way,"Richmond, VA",VA,Yes,1/19/2022,4/19/2022,90,22,3,25,29,0.8621,0.7600,0.8800,Yes
+Broad and Willow Lawn,"Richmond, VA",VA,Yes,2/22/2022,4/19/2022,56,19,0,19,28,0.6786,1.0000,1.0000,Yes
+Forest Hill Ave,"Richmond, VA",VA,Yes,1/19/2022,4/19/2022,90,17,1,18,23,0.7826,0.8889,0.9444,Yes
+Westchester Commons,"Midlothian, VA",VA,Yes,2/14/2022,4/19/2022,64,13,8,21,31,0.6774,0.2381,0.6190,Yes
+Huguenot Village Shopping Center,"Richmond, VA",VA,Yes,2/14/2022,4/19/2022,64,11,2,13,28,0.4643,0.6923,0.8462,Yes
+Palm Springs Mile,"Hialeah, FL",FL,Yes,3/9/2022,4/20/2022,42,12,14,26,37,0.7027,-0.0769,0.4615,No
+Starbucks Reserve Roastery,"Seattle, WA",WA,No,2/14/2022,4/21/2022,66,38,27,65,104,0.6250,0.1692,0.5846,Yes
+Gallows and Gatehouse,"Falls Church, VA",VA,Yes,3/8/2022,4/22/2022,45,30,2,32,36,0.8889,0.8750,0.9375,Yes
+8th Ave & 49th St,"Miami, FL",FL,Yes,2/14/2022,4/22/2022,67,13,14,27,37,0.7297,-0.0370,0.4815,No
+Rock Creek Parkway,"Superior, CO",CO,No,12/30/2021,4/22/2022,113,12,2,14,30,0.4667,0.7143,0.8571,Yes
+Leesburg Plaza,"Leesburg, VA",VA,Yes,3/8/2022,4/23/2022,46,24,1,25,30,0.8333,0.9200,0.9600,Yes
+Hopewell,"Pennington, NJ",NJ,No,1/11/2022,4/25/2022,104,15,0,15,26,0.5769,1.0000,1.0000,Yes
+N Charles St,"Baltimore, MD",MD,No,1/20/2022,4/25/2022,95,14,0,14,22,0.6364,1.0000,1.0000,Yes
+Northwest Hwy & Feinberg Drive,"Cary, IL",IL,No,2/14/2022,4/26/2022,71,17,4,21,27,0.7778,0.6190,0.8095,Yes
+University & Main,"Peoria, IL",IL,No,2/14/2022,4/26/2022,71,9,2,11,18,0.6111,0.6364,0.8182,Yes
+Howell & Puetz,"Oak Creek, WI",WI,Yes,2/14/2022,4/27/2022,72,15,8,23,31,0.7419,0.3043,0.6522,Yes
+300 Snelling,"St. Paul, MN",MN,No,2/14/2022,4/27/2022,72,14,1,15,20,0.7500,0.8667,0.9333,Yes
+Augusta Exchange,"Augusta, GA",GA,Yes,3/14/2022,4/28/2022,45,26,5,31,38,0.8158,0.6774,0.8387,Yes
+U of O Erb Memorial Student Union,"Eugene, OR",OR,No,2/6/2022,4/28/2022,81,19,0,19,28,0.6786,1.0000,1.0000,Yes
+Franklin & Villard,"Eugene, OR",OR,No,1/31/2022,4/28/2022,87,17,0,17,27,0.6296,1.0000,1.0000,Yes
+7th & Washington,"Eugene, OR",OR,No,1/31/2022,4/28/2022,87,12,1,13,19,0.6842,0.8462,0.9231,Yes
+Delta & Green Acres,"Eugene, OR",OR,No,2/6/2022,4/28/2022,81,10,1,11,25,0.4400,0.8182,0.9091,Yes
+Oakway Mall,"Eugene, OR",OR,No,1/31/2022,4/28/2022,87,4,7,11,17,0.6471,-0.2727,0.3636,No
+Cooper Point Village,"Olympia, WA",WA,No,2/26/2022,4/29/2022,62,19,2,21,30,0.7000,0.8095,0.9048,Yes
+Astor Place / Lafayette & 8th St,"New York, NY",NY,No,2/10/2022,4/29/2022,78,11,2,13,30,0.4333,0.6923,0.8462,Yes
+Holman Rd,"Seattle, WA",WA,No,2/24/2022,4/29/2022,64,11,1,12,14,0.8571,0.8333,0.9167,Yes
+Pride Drive & Blowing Rock Road,"Boone, NC",NC,Yes,4/4/2022,4/30/2022,26,33,2,35,48,0.7292,0.8857,0.9429,Yes
+47th and Cedar,"Minneapolis, MN",MN,No,2/27/2022,5/2/2022,64,11,3,14,31,0.4516,0.5714,0.7857,Yes
+1087 White Horse Ave,"Hamilton, NJ",NJ,No,2/25/2022,5/2/2022,66,8,3,11,28,0.3929,0.4545,0.7273,Yes
+Mililani Shopping Center,"Mililani, HI",HI,No,2/11/2022,5/2/2022,80,7,8,15,17,0.8824,-0.0667,0.4667,No
+Summit,"Summit, NJ",NJ,No,3/2/2022,5/2/2022,61,7,3,10,18,0.5556,0.4000,0.7000,Yes
+Massapequa Village Square,"Massapequa, NY",NY,No,2/16/2022,5/3/2022,76,19,8,27,36,0.7500,0.4074,0.7037,Yes
+Ceasar's Bay Shopping Center,"Brooklyn, NY",NY,No,2/9/2022,5/3/2022,83,17,0,17,20,0.8500,1.0000,1.0000,Yes
+John Knox & N. Monroe St,"Tallahassee, FL",FL,Yes,1/11/2022,5/3/2022,112,16,1,17,35,0.4857,0.8824,0.9412,Yes
+2003 S. Main St,"Farmville, VA",VA,Yes,2/22/2022,5/3/2022,70,12,3,15,27,0.5556,0.6000,0.8000,Yes
+Watertown - Mt. Auburn,"Watertown, MA",MA,No,1/21/2022,5/3/2022,102,10,1,11,27,0.4074,0.8182,0.9091,Yes
+Cleveland Circle,"Boston, MA",MA,No,1/19/2022,5/3/2022,104,8,2,10,22,0.4545,0.6000,0.8000,Yes
+Allston Continuum,"Boston, MA",MA,No,1/19/2022,5/3/2022,104,7,0,7,14,0.5000,1.0000,1.0000,Yes
+The Gardens,"Great Neck Plaza, NY",NY,No,2/9/2022,5/3/2022,83,5,6,11,14,0.7857,-0.0909,0.4545,No
+Wake Forest Rd and Six Forks Rd,"Raleigh, NC",NC,Yes,2/15/2022,5/3/2022,77,5,7,12,12,1.0000,-0.1667,0.4167,No
+Beth Israel,"Boston, MA",MA,No,1/19/2022,5/3/2022,104,5,0,5,15,0.3333,1.0000,1.0000,Yes
+McDill & Crossroads,"Plover, WI",WI,Yes,2/21/2022,5/4/2022,72,7,5,12,34,0.3529,0.1667,0.5833,Yes
+Indian School & 107th Ave,"Avondale, AZ",AZ,Yes,2/28/2022,5/5/2022,66,17,3,20,30,0.6667,0.7000,0.8500,Yes
+Valley River Drive,"Eugene, OR",OR,No,3/1/2022,5/5/2022,65,10,3,13,27,0.4815,0.5385,0.7692,Yes
+7th Street & Bell,"Phoenix, AZ",AZ,Yes,2/23/2022,5/5/2022,71,7,6,13,28,0.4643,0.0769,0.5385,Yes
+West 11th & Acorn Park,"Eugene, OR",OR,No,2/28/2022,5/5/2022,66,7,2,9,25,0.3600,0.5556,0.7778,Yes
+Ben Hill Griffin Parkway,"Estero, FL",FL,Yes,3/22/2022,5/6/2022,45,11,21,32,37,0.8649,-0.3125,0.3438,No
+Amos Hall,"Pittsburgh, PA",PA,No,3/4/2022,5/6/2022,63,10,3,13,44,0.2955,0.5385,0.7692,Yes
+Downtown La Grange,"La Grange, IL",IL,No,1/14/2022,5/6/2022,112,6,9,15,18,0.8333,-0.2000,0.4000,No
+1700 W Nursery Road,"Linthicum, MD",MD,No,3/8/2022,5/10/2022,63,15,2,17,23,0.7391,0.7647,0.8824,Yes
+E Colfax Ave,"Denver, CO",CO,No,1/27/2022,5/10/2022,103,13,0,13,23,0.5652,1.0000,1.0000,Yes
+52 Curtiss Pkwy,"Miami Springs, FL",FL,Yes,3/15/2022,5/10/2022,56,10,3,13,17,0.7647,0.5385,0.7692,Yes
+San Jose Blvd & Ricky Drive,"Jacksonville, FL",FL,Yes,2/16/2022,5/10/2022,83,10,7,17,25,0.6800,0.1765,0.5882,Yes
+1980 Can Marco Blvd,"Jacksonville, FL",FL,Yes,2/25/2022,5/10/2022,74,8,1,9,14,0.6429,0.7778,0.8889,Yes
+Mission & Dufour,"Santa Cruz, CA",CA,No,1/31/2022,5/11/2022,100,14,2,16,32,0.5000,0.7500,0.8750,Yes
+Ocean & Water,"Santa Cruz, CA",CA,No,1/21/2022,5/11/2022,110,13,1,14,28,0.5000,0.8571,0.9286,Yes
+Charlotte Street,"Asheville, NC",NC,Yes,3/29/2022,5/11/2022,43,6,11,17,23,0.7391,-0.2941,0.3529,No
+Candlewood St. & Lakewood Blvd.,"Lakewood, CA",CA,No,3/7/2022,5/13/2022,67,24,1,25,33,0.7576,0.9200,0.9600,Yes
+Burton & Rosemont,"Grand Rapids, MI",MI,Yes,3/7/2022,5/13/2022,67,15,3,18,30,0.6000,0.6667,0.8333,Yes
+Redondo & 7th,"Long Beach, CA",CA,No,3/7/2022,5/13/2022,67,13,0,13,23,0.5652,1.0000,1.0000,Yes
+I-85 & Pelham Pkwy,"Greeneville, SC",SC,Yes,2/16/2022,5/16/2022,89,8,1,9,29,0.3103,0.7778,0.8889,Yes
+SE Powell & 28th,"Portland, OR",OR,No,3/4/2022,5/17/2022,74,14,2,16,23,0.6957,0.7500,0.8750,Yes
+23rd & Burnside,"Portland, OR",OR,No,3/4/2022,5/17/2022,74,9,2,11,22,0.5000,0.6364,0.8182,Yes
+NE Grand & Lloyd,"Portland, OR",OR,No,3/4/2022,5/17/2022,74,9,0,9,22,0.4091,1.0000,1.0000,Yes
+Latham Plaza,"Latham, NY",NY,No,3/29/2022,5/17/2022,49,8,6,14,19,0.7368,0.1429,0.5714,Yes
+5th & Oak / US Bank Tower,"Portland, OR",OR,No,3/4/2022,5/17/2022,74,5,0,5,6,0.8333,1.0000,1.0000,Yes
+S. Nevada and Brookside,"Colorado Springs, CO",CO,No,3/10/2022,5/19/2022,70,13,0,13,24,0.5417,1.0000,1.0000,Yes
+Waban,"Waban, MA",MA,No,3/12/2022,5/19/2022,68,12,0,12,23,0.5217,1.0000,1.0000,Yes
+Oyster Point Shoppes,"Newport News, VA",VA,Yes,4/8/2022,5/19/2022,41,11,7,18,18,1.0000,0.2222,0.6111,Yes
+Holly & Leetsdale,"Denver, CO",CO,No,3/21/2022,5/19/2022,59,9,1,10,24,0.4167,0.8000,0.9000,Yes
+16th & Tremont,"Denver, CO",CO,No,3/4/2022,5/19/2022,76,4,1,5,26,0.1923,0.6000,0.8000,Yes
+16806 Georgia Ave - Olney,"Olney, MD",MD,No,4/6/2022,5/20/2022,44,9,4,13,14,0.9286,0.3846,0.6923,Yes
+2nd & Central,"Los Angeles, CA",CA,No,3/15/2022,5/23/2022,69,5,0,5,19,0.2632,1.0000,1.0000,Yes
+Katella & Los Alamitos,"Los Alamitos, CA",CA,No,3/16/2022,5/23/2022,68,2,11,13,19,0.6842,-0.6923,0.1538,No
+E 39th and Arrowhead,"Independence, MO",MO,Yes,3/7/2022,5/24/2022,78,17,3,20,29,0.6897,0.7000,0.8500,Yes
+6th Street,"Cleveland, OH",OH,No,1/10/2022,5/24/2022,134,10,0,10,22,0.4545,1.0000,1.0000,Yes
+Westmoreland,"Portland, OR",OR,No,3/18/2022,5/24/2022,67,9,1,10,13,0.7692,0.8000,0.9000,Yes
+88 E. Broad Street,"Columbus, OH",OH,No,3/22/2022,5/24/2022,63,8,4,12,13,0.9231,0.3333,0.6667,Yes
+Ridge & Clark,"Chicago, IL",IL,No,3/24/2022,5/25/2022,62,20,3,23,29,0.7931,0.7391,0.8696,Yes
+20th & Market,"Philadelphia, PA",PA,No,2/3/2022,5/25/2022,111,11,0,11,18,0.6111,1.0000,1.0000,Yes
+W. Bryn Mawr & Winthrop - Edgewater,"Chicago, IL",IL,No,4/7/2022,5/25/2022,48,10,1,11,14,0.7857,0.8182,0.9091,Yes
+Penn Medicine Perelman Center,"Philadelphia, PA",PA,No,3/16/2022,5/25/2022,70,10,1,11,26,0.4231,0.8182,0.9091,Yes
+Walnut & 34th,"Philadelphia, PA",PA,No,2/3/2022,5/25/2022,111,10,0,10,24,0.4167,1.0000,1.0000,Yes
+9th & South,"Philadelphia, PA",PA,No,1/28/2022,5/25/2022,117,7,2,9,17,0.5294,0.5556,0.7778,Yes
+Callowhill,"Philadelphia, PA",PA,No,1/28/2022,5/25/2022,117,4,10,14,19,0.7368,-0.4286,0.2857,No
+Millwood Ave & Butler St.,"Columbia, SC",SC,Yes,3/16/2022,5/26/2022,71,12,0,12,28,0.4286,1.0000,1.0000,Yes
+20th Street and 3rd Ave,"Birmingham, AL",AL,Yes,4/11/2022,5/26/2022,45,27,1,28,33,0.8485,0.9286,0.9643,Yes
+LaGrange and Factory,"Louisville, KY",KY,Yes,3/15/2022,5/26/2022,72,19,5,24,43,0.5581,0.5833,0.7917,Yes
+Kingston Pike & Montvue,"Knoxville, TN",TN,Yes,3/14/2022,5/26/2022,73,13,4,17,33,0.5152,0.5294,0.7647,Yes
+Market Square,"Pittsburgh, PA",PA,No,3/23/2022,5/26/2022,64,8,1,9,23,0.3913,0.7778,0.8889,Yes
+Fortress and John Rice,"Murfreesboro, TN",TN,Yes,3/14/2022,5/27/2022,74,12,16,28,36,0.7778,-0.1429,0.4286,No
+2344 Eastlake,"Seattle, WA",WA,No,3/18/2022,5/27/2022,70,12,0,12,15,0.8000,1.0000,1.0000,Yes
+505 Union Station,"Seattle, WA",WA,No,3/16/2022,5/27/2022,72,6,3,9,15,0.6000,0.3333,0.6667,Yes
+I-85 & Clemson Blvd,"Anderson, SC",SC,Yes,3/22/2022,5/31/2022,70,18,0,18,22,0.8182,1.0000,1.0000,Yes
+23rd & Robinson,"Oklahoma City, OK",OK,Yes,3/16/2022,5/31/2022,76,15,2,17,31,0.5484,0.7647,0.8824,Yes
+Hwy 278 & Pace,"Covington, GA",GA,Yes,4/21/2022,6/1/2022,41,4,18,22,30,0.7333,-0.6364,0.1818,No
+37th & Broadway,"Everett, WA",WA,No,1/31/2022,6/1/2022,121,13,1,14,29,0.4828,0.8571,0.9286,Yes
+Nottingham Square Shopping Center,"White Marsh, MD",MD,No,4/4/2022,6/1/2022,58,10,2,12,19,0.6316,0.6667,0.8333,Yes
+Route 1 Bel Air Plaza,"Bel Air, MD",MD,No,4/2/2022,6/1/2022,60,8,5,13,33,0.3939,0.2308,0.6154,Yes
+"50 E & Thompson Creek, Kent Island","Stevensville, MD",MD,No,4/2/2022,6/1/2022,60,6,3,9,22,0.4091,0.3333,0.6667,Yes
+Garden Home,"Portland, OR",OR,No,1/31/2022,6/2/2022,122,12,1,13,19,0.6842,0.8462,0.9231,Yes
+Walker & Schendel,"Beaverton, OR",OR,No,1/31/2022,6/2/2022,122,12,5,17,26,0.6538,0.4118,0.7059,Yes
+Jenkins at Cedar Hills Crossing,"Beaverton, OR",OR,No,1/31/2022,6/2/2022,122,10,2,12,25,0.4800,0.6667,0.8333,Yes
+"Worcester, East Central Street","Worcester, MA",MA,No,3/26/2022,6/3/2022,69,14,0,14,35,0.4000,1.0000,1.0000,Yes
+Westford Valley Marketplace,"Westford, MA",MA,No,3/30/2022,6/3/2022,65,11,0,11,26,0.4231,1.0000,1.0000,Yes
+874 Commonwealth Ave,"Brookline, MA",MA,No,3/26/2022,6/3/2022,69,10,0,10,27,0.3704,1.0000,1.0000,Yes
+45th & N. Lamar,"Austin, TX",TX,Yes,3/21/2022,6/3/2022,74,10,1,11,26,0.4231,0.8182,0.9091,Yes
+Tremont-South End,"Boston, MA",MA,No,3/24/2022,6/3/2022,71,4,0,4,32,0.1250,1.0000,1.0000,Yes
+Nanuet,"Nanuet, NY",NY,No,4/14/2022,6/3/2022,50,14,5,19,22,0.8636,0.4737,0.7368,Yes
+7700 Maple Street,"New Orleans, LA",LA,Yes,4/19/2022,6/4/2022,46,11,1,12,16,0.7500,0.8333,0.9167,Yes
+Clares & 41st,"Capitola, CA",CA,No,3/30/2022,6/6/2022,68,8,3,11,21,0.5238,0.4545,0.7273,Yes
+37th & Silver Lake Road,"St. Anthony, MN",MN,No,3/22/2022,6/6/2022,76,15,5,20,29,0.6897,0.5000,0.7500,Yes
+Astoria Blvd & 31st St,"Queens, NY",NY,No,3/18/2022,6/6/2022,80,11,0,11,13,0.8462,1.0000,1.0000,Yes
+5th & Pike,"Seattle, WA",WA,No,1/25/2022,6/6/2022,132,12,0,12,15,0.8000,1.0000,1.0000,Yes
+I-75 & Howell Mill,"Atlanta, GA",GA,Yes,1/27/2022,6/6/2022,130,10,1,11,34,0.3235,0.8182,0.9091,Yes
+1200 Westlake Ave,"Seattle, WA",WA,No,1/25/2022,6/6/2022,132,7,7,14,22,0.6364,0.0000,0.5000,No
+E. Olive Way,"Seattle, WA",WA,No,3/30/2022,6/7/2022,69,8,0,8,20,0.4000,1.0000,1.0000,Yes
+23rd & Ousdahl,"Lawrence, KA",KA,Yes,3/28/2022,6/7/2022,71,19,3,22,36,0.6111,0.7273,0.8636,Yes
+"Capitol Blvd & Trosper St, Tumwater","Olympia, WA",WA,No,3/28/2022,6/7/2022,71,12,3,15,31,0.4839,0.6000,0.8000,Yes
+Main & Liberty,"Ann Arbor, MI",MI,Yes,2/4/2022,6/7/2022,123,10,3,13,19,0.6842,0.5385,0.7692,Yes
+South University & Church,"Ann Arbor, MI",MI,Yes,2/4/2022,6/7/2022,123,10,2,12,29,0.4138,0.6667,0.8333,Yes
+State & Liberty,"Ann Arbor, MI",MI,Yes,2/4/2022,6/7/2022,123,15,1,16,33,0.4848,0.8750,0.9375,Yes
+Jackson & Zeeb,"Ann Arbor, MI",MI,Yes,1/28/2022,6/7/2022,130,10,2,12,29,0.4138,0.6667,0.8333,Yes
+Glencoe Crossing,"Ann Arbor, MI",MI,Yes,1/28/2022,6/7/2022,130,14,0,14,30,0.4667,1.0000,1.0000,Yes
+Poplar & Highland,"Memphis, TN",TN,Yes,1/17/2022,6/7/2022,141,11,3,14,20,0.7000,0.5714,0.7857,Yes
+55th & Woodlawn - Hyde Park,"Chicago, IL",IL,No,1/14/2022,6/7/2022,144,5,3,8,16,0.5000,0.2500,0.6250,Yes
+Randolph & Wabash,"Chicago, IL",IL,No,12/30/2021,6/7/2022,159,6,7,13,25,0.5200,-0.0769,0.4615,No
+Logan & California,"Chicago, IL",IL,No,3/30/2022,6/7/2022,69,8,10,18,25,0.7200,-0.1111,0.4444,No
+Stuyvesant Plaza,"Albany, NY",NY,No,4/18/2022,6/7/2022,50,15,0,15,20,0.7500,1.0000,1.0000,Yes
+N. Center Dr & Tomahawk Island Dr,"Portland, OR",OR,No,3/30/2022,6/7/2022,69,15,5,20,25,0.8000,0.5000,0.7500,Yes
+Garden of the Gods at Centennial,"Colorado Springs, CO",CO,No,4/6/2022,6/8/2022,63,12,4,16,28,0.5714,0.5000,0.7500,Yes
+Corbin's Corner,"West Hartford, CT",CT,No,4/18/2022,6/9/2022,52,13,3,16,22,0.7273,0.6250,0.8125,Yes
+443 Boylston Street,"Boston, MA",MA,No,4/4/2022,6/9/2022,66,5,1,6,24,0.2500,0.6667,0.8333,Yes
+Katella & Anaheim,"Anaheim, CA",CA,No,3/28/2022,6/9/2022,73,10,1,11,29,0.3793,0.8182,0.9091,Yes
+Grand River & Stoddard,"East Lansing, MI",MI,Yes,3/7/2022,6/9/2022,94,19,0,19,32,0.5938,1.0000,1.0000,Yes
+Miller Road & I-75,"Flint, MI",MI,Yes,3/7/2022,6/9/2022,94,13,6,19,26,0.7308,0.3684,0.6842,Yes
+Mitchell Hammock & City Plaza,"Oviedo, FL",FL,Yes,3/4/2022,6/9/2022,97,24,6,30,42,0.7143,0.6000,0.8000,Yes
+Lake Lansing & Kerry St,"Lansing, MI",MI,Yes,2/4/2022,6/9/2022,125,13,3,16,37,0.4324,0.6250,0.8125,Yes
+S. Saginaw Street,"Grand Blanc, MI",MI,Yes,1/28/2022,6/9/2022,132,8,13,21,30,0.7000,-0.2381,0.3810,No
+The Mall at Partridge Creek,"Clinton Township, MI",MI,Yes,1/28/2022,6/9/2022,132,8,3,11,15,0.7333,0.4545,0.7273,Yes
+"54th St. & Ray Rd., Chandler","Chandler, AZ",AZ,Yes,3/29/2022,6/9/2022,72,1,9,10,17,0.5882,-0.8000,0.1000,No
+Nuckols Rd & Twin Hickory,"Glen Allen, VA",VA,Yes,4/14/2022,6/10/2022,57,7,20,27,31,0.8710,-0.4815,0.2593,No
+Highland Dr and Fort Union Blvd,"Cottonwood Heights, UT",UT,Yes,3/31/2022,6/10/2022,71,11,6,17,20,0.8500,0.2941,0.6471,Yes
+W. 24th & Nueces (White House),"Austin, TX",TX,Yes,3/8/2022,6/10/2022,94,10,2,12,34,0.3529,0.6667,0.8333,Yes
+Gallery Shopping Center at Westbury,"Garden City, NY",NY,No,4/14/2022,6/10/2022,57,23,0,23,24,0.9583,1.0000,1.0000,Yes
+Natural Bridge & St. Charles Rock Rd,"Bridgeton, MO",MO,Yes,4/1/2022,6/13/2022,73,9,14,23,41,0.5610,-0.2174,0.3913,No
+3rd and Columbine - Cherry Creek,"Denver, CO",CO,No,4/12/2022,6/13/2022,62,8,5,13,23,0.5652,0.2308,0.6154,Yes
+Lindbergh & Clayton,"Ladue, MO",MO,Yes,3/29/2022,6/13/2022,76,12,3,15,30,0.5000,0.6000,0.8000,Yes
+Armitage & Hoyne - Bucktown,"Chicago, IL",IL,No,3/28/2022,6/14/2022,78,15,1,16,29,0.5517,0.8750,0.9375,Yes
+Kings & Chippewa,"St. Louis, MO",MO,Yes,4/4/2022,6/14/2022,71,9,4,13,27,0.4815,0.3846,0.6923,Yes
+410 & Vance Jackson,"San Antonio, TX",TX,Yes,2/7/2022,6/14/2022,127,10,6,16,28,0.5714,0.2500,0.6250,Yes
+36th & May,"Oklahoma City, OK",OK,Yes,4/1/2022,6/14/2022,74,14,1,15,30,0.5000,0.8667,0.9333,Yes
+5351 Lyndale Avenue South,"Minneapolis, MN",MN,No,3/30/2022,6/14/2022,76,5,6,11,17,0.6471,-0.0909,0.4545,No
+East Robinson at Niagara Falls Blvd,"Buffalo, NY",NY,No,4/18/2022,6/16/2022,59,7,4,11,35,0.3143,0.2727,0.6364,Yes
+Eastside,"Pittsburgh, PA",PA,No,4/18/2022,6/16/2022,59,10,0,10,15,0.6667,1.0000,1.0000,Yes
+Penn Center East,"Pittsburgh, PA",PA,No,4/13/2022,6/16/2022,64,15,6,21,36,0.5833,0.4286,0.7143,Yes
+Downtown Disney Store,"Anaheim, CA",CA,No,3/28/2022,6/16/2022,80,29,15,44,90,0.4889,0.3182,0.6591,Yes
+Northland & Richmond,"Appleton, WI",WI,Yes,4/8/2022,6/16/2022,69,10,7,17,24,0.7083,0.1765,0.5882,Yes
+Hampton & Wise,"St. Louis, MO",MO,Yes,4/4/2022,6/17/2022,74,17,0,17,25,0.6800,1.0000,1.0000,Yes
+Carpenter Rd.,"Ann Arbor, MI",MI,Yes,4/12/2022,6/17/2022,66,15,2,17,38,0.4474,0.7647,0.8824,Yes
+"Hwy 111 & Jefferson, La Quinta","La Quinta, CA",CA,No,4/11/2022,6/21/2022,71,5,4,9,35,0.2571,0.1111,0.5556,Yes
+Houston & St. Mary's,"San Antonio, TX",TX,Yes,3/16/2022,6/21/2022,97,13,0,13,21,0.6190,1.0000,1.0000,Yes
+Lakewood Crossing - Marysville,"Marysville, WA",WA,No,4/11/2022,6/21/2022,71,9,4,13,22,0.5909,0.3846,0.6923,Yes
+2nd & Covina,"Long Beach, CA",CA,No,4/11/2022,6/21/2022,71,3,5,8,22,0.3636,-0.2500,0.3750,No
+Citrus & Rowland,"Covina, CA",CA,No,4/11/2022,6/21/2022,71,7,10,17,36,0.4722,-0.1765,0.4118,No
+12th St. & Walnut,"Philadelphia, PA",PA,No,4/13/2022,6/21/2022,69,6,1,7,14,0.5000,0.7143,0.8571,Yes
+154 N Seventh St. - Starbucks Reserve,"Brooklyn, NY",NY,No,4/14/2022,6/21/2022,68,10,0,10,18,0.5556,1.0000,1.0000,Yes
+Greengate Centre,"Greensburg, PA",PA,No,5/16/2022,6/21/2022,36,21,6,27,30,0.9000,0.5556,0.7778,Yes
+41st & Main,"Kansas City, MO",MO,Yes,3/22/2022,6/22/2022,92,5,4,9,37,0.2432,0.1111,0.5556,Yes
+Mall of America - First Level,"Bloomington, MN",MN,No,4/14/2022,6/22/2022,69,10,1,11,22,0.5000,0.8182,0.9091,Yes
+Ansley Mall,"Atlanta, GA",GA,Yes,5/2/2022,6/22/2022,51,11,3,14,15,0.9333,0.5714,0.7857,Yes
+4th and Vine,"Cincinnati, OH",OH,No,4/12/2022,6/23/2022,72,9,1,10,19,0.5263,0.8000,0.9000,Yes
+"Gardner, W. Broadway","Gardner, MA",MA,No,4/18/2022,6/23/2022,66,14,0,14,30,0.4667,1.0000,1.0000,Yes
+Kearney Plaza,"Portland, OR",OR,No,4/19/2022,6/23/2022,65,8,0,8,15,0.5333,1.0000,1.0000,Yes
+Iowa & King,"Bellingham, WA",WA,No,4/15/2022,6/24/2022,70,20,0,20,30,0.6667,1.0000,1.0000,Yes
+The Bridges Roanoke,"Roanoke, VA",VA,Yes,2/14/2022,6/27/2022,133,14,0,14,26,0.5385,1.0000,1.0000,Yes
+4147 University Way Avenue,"Seattle, WA",WA,No,4/25/2022,6/28/2022,64,10,5,15,32,0.4688,0.3333,0.6667,Yes
+Cascade Marketplace,"Sterling, VA",VA,Yes,5/17/2022,6/28/2022,42,11,4,15,17,0.8824,0.4667,0.7333,Yes
+28th & Burnside,"Gresham, OR",OR,No,4/22/2022,6/28/2022,67,14,3,17,29,0.5862,0.6471,0.8235,Yes
+Craig Street,"Pittsburgh, PA",PA,No,3/23/2022,6/28/2022,97,9,8,17,29,0.5862,0.0588,0.5294,Yes
+Mason & Lassen,"Los Angeles, CA",CA,No,2/2/2022,6/29/2022,147,6,9,15,35,0.4286,-0.2000,0.4000,No
+Westerville,"Westerville, OH",OH,No,4/13/2022,6/29/2022,77,8,2,10,30,0.3333,0.6000,0.8000,Yes
+Arthur Ashe Blvd & Myers,"Richmond, VA",VA,Yes,2/14/2022,6/30/2022,136,8,7,15,22,0.6818,0.0667,0.5333,Yes
+Newtonville,"Newtonville, MA",MA,No,2/17/2022,6/30/2022,133,2,5,7,12,0.5833,-0.4286,0.2857,No
+Kendall Square,"Cambridge, MA",MA,No,2/17/2022,6/30/2022,133,6,0,6,26,0.2308,1.0000,1.0000,Yes
+Rayzor Branch,"Denton, TX",TX,Yes,3/29/2022,6/30/2022,93,17,5,22,41,0.5366,0.5455,0.7727,Yes
+Capitol Square - Main & MLK,"Madison, WI",WI,Yes,3/29/2022,6/30/2022,93,15,1,16,22,0.7273,0.8750,0.9375,Yes
+31st St & Ditmars Blvd - Astoria,"Queens, NY",NY,No,4/14/2022,6/30/2022,77,7,4,11,25,0.4400,0.2727,0.6364,Yes
+Madison Park,"Seattle, WA",WA,No,5/2/2022,6/30/2022,59,6,1,7,18,0.3889,0.7143,0.8571,Yes
+Hwy 169 & Anderson Lakes Pkwy,"Eden Prarie, MN",MN,No,4/21/2022,7/1/2022,71,8,9,17,26,0.6538,-0.0588,0.4706,No
+Cordata Center,"Bellingham, WA",WA,No,5/10/2022,7/6/2022,57,10,3,13,25,0.5200,0.5385,0.7692,Yes
+Hwy 9 & Classen Blvd,"Norman, OK",OK,Yes,3/9/2022,7/6/2022,119,8,8,16,38,0.4211,0.0000,0.5000,No
+Hwy 141 & I-44,"Valley Park, MO",MO,Yes,4/22/2022,7/7/2022,76,11,6,17,23,0.7391,0.2941,0.6471,Yes
+Clackamas Crossing,"Happy Valley, OR",OR,No,5/2/2022,7/8/2022,67,13,0,13,28,0.4643,1.0000,1.0000,Yes
+McKee & Triverton Pike,"Fitchburg, WI",WI,Yes,4/26/2022,7/11/2022,76,1,21,22,29,0.7586,-0.9091,0.0455,No
+East Amherst,"Amherst, NY",NY,No,4/28/2022,7/11/2022,74,11,1,12,24,0.5000,0.8333,0.9167,Yes
+Cusick & Alcoa,"Alcoa, TN",TN,Yes,4/26/2022,7/11/2022,76,15,7,22,30,0.7333,0.3636,0.6818,Yes
+I-24 & Sam Ridley Pkwy,"Smyrna, TN",TN,Yes,4/7/2022,7/11/2022,95,8,8,16,35,0.4571,0.0000,0.5000,No
+Henderson Ave & Marks,"Fresno, CA",CA,No,4/21/2022,7/11/2022,81,0,14,14,22,0.6364,-1.0000,0.0000,No
+Knoxville & Pioneer,"Peoria, IL",IL,No,5/3/2022,7/12/2022,70,2,2,4,21,0.1905,0.0000,0.5000,No
+Latrobe & Town Ctr,"El Dorado Hills, CA",CA,No,5/3/2022,7/13/2022,71,2,7,9,17,0.5294,-0.5556,0.2222,No
+1201 Market,"Philadelphia, PA",PA,No,6/3/2022,7/13/2022,40,3,13,16,23,0.6957,-0.6250,0.1875,No
+Shelburne Road,"Burlington, VT",VT,No,5/1/2022,7/14/2022,74,4,2,6,20,0.3000,0.3333,0.6667,Yes
+Vernon,"Vernon, CT",CT,No,5/12/2022,7/14/2022,63,13,1,14,29,0.4828,0.8571,0.9286,Yes
+Biddeford Alfred St,"Biddeford, ME",ME,No,5/12/2022,7/14/2022,63,9,3,12,24,0.5000,0.5000,0.7500,Yes
+Walden & Anderson,"Buffalo, NY",NY,No,11/9/2021,7/15/2022,248,8,8,16,30,0.5333,0.0000,0.5000,No
+"W 117th, Clifton Blvd","Cleveland, OH",OH,No,2/18/2022,7/19/2022,151,10,0,10,25,0.4000,1.0000,1.0000,Yes
+"Mayfield & Lee, Cleveland Hts","Cleveland, OH",OH,No,2/18/2022,7/19/2022,151,8,0,8,16,0.5000,1.0000,1.0000,Yes
+4th & 4th,"Salt Lake City, UT",UT,Yes,5/9/2022,7/19/2022,71,9,0,9,20,0.4500,1.0000,1.0000,Yes
+400 Park Ave,"Winter Park, FL",FL,Yes,5/2/2022,7/20/2022,79,5,8,13,20,0.6500,-0.2308,0.3846,No
+North Perryville & Olde Creek,"Rockford, IL",IL,No,5/9/2022,7/21/2022,73,16,2,18,25,0.7200,0.7778,0.8889,Yes
+University Circle - UH,"Cleveland, OH",OH,No,3/16/2022,7/22/2022,128,11,9,20,32,0.6250,0.1000,0.5500,Yes
+Bolsa & Edwards,"Huntington Beach, CA",CA,No,5/12/2022,7/22/2022,71,12,2,14,16,0.8750,0.7143,0.8571,Yes
+281 & Hwy 46,"Bulverde, TX",TX,Yes,5/20/2022,7/25/2022,66,4,17,21,25,0.8400,-0.6190,0.1905,No
+Liberty & Baum,"Pittsburgh, PA",PA,No,5/20/2022,7/26/2022,67,8,6,14,17,0.8235,0.1429,0.5714,Yes
+McKnight and Siebert,"Pittsburgh, PA",PA,No,5/20/2022,7/26/2022,67,4,6,10,18,0.5556,-0.2000,0.4000,No
+North Ocean Ave,"Farmingville, NY",NY,No,4/29/2022,7/26/2022,88,13,1,14,36,0.3889,0.8571,0.9286,Yes
+Lenwood Road & Mercantile Way,"Barstow, CA",CA,No,5/17/2022,7/27/2022,71,9,3,12,17,0.7059,0.5000,0.7500,Yes
+Veterans Pkwy & I-65,"Clarksville, IN",IN,Yes,5/31/2022,7/29/2022,59,14,1,15,30,0.5000,0.8667,0.9333,Yes
+Mockingbird Station,"Dallas, TX",TX,Yes,5/25/2022,7/29/2022,65,9,0,9,15,0.6000,1.0000,1.0000,Yes
+Iowa & University,"Riverside, CA",CA,No,5/24/2022,7/29/2022,66,3,1,4,28,0.1429,0.5000,0.7500,Yes
+21st & Amidon,"Wichita, KS",KS,Yes,5/20/2022,8/1/2022,73,5,6,11,26,0.4231,-0.0909,0.4545,No
+Figuero & Cypress,"Los Angeles, CA",CA,No,5/19/2022,8/2/2022,75,21,2,23,38,0.6053,0.8261,0.9130,Yes
+7th & Roosevelt,"Phoenix, AZ",AZ,Yes,5/6/2022,8/3/2022,89,5,15,20,35,0.5714,-0.5000,0.2500,No
+7707 McKnight Road,"Pittsburgh, PA",PA,No,5/28/2022,8/3/2022,67,16,4,20,43,0.4651,0.6000,0.8000,Yes
+Fairfax & Olympic,"Los Angeles, CA",CA,No,5/24/2022,8/3/2022,71,8,4,12,17,0.7059,0.3333,0.6667,Yes
+Lincoln & Jersey - Lincoln Village,"Chicago, IL",IL,No,5/25/2022,8/4/2022,71,4,3,7,20,0.3500,0.1429,0.5714,Yes
+Niskayuna Shoprite Square,"Schenectady, NY",NY,No,6/21/2022,8/5/2022,45,15,1,16,21,0.7619,0.8750,0.9375,Yes
+4th & Morrison,"Portland, OR",OR,No,5/31/2022,8/5/2022,66,6,0,6,16,0.3750,1.0000,1.0000,Yes
+Blanco Rd,"San Antonio, TX",TX,Yes,6/2/2022,8/5/2022,64,10,2,12,22,0.5455,0.6667,0.8333,Yes
+North Bend & Mt Si,"North Bend, WA",WA,No,6/6/2022,8/8/2022,63,12,2,14,27,0.5185,0.7143,0.8571,Yes
+Commercial & Oakhill,"Salem, OR",OR,No,5/26/2022,8/9/2022,75,13,2,15,25,0.6000,0.7333,0.8667,Yes
+Montclair,"Montclair, NJ",NJ,No,6/16/2022,8/10/2022,55,7,0,7,17,0.4118,1.0000,1.0000,Yes
+Macadam Ave,"Portland, OR",OR,No,6/6/2022,8/10/2022,65,8,1,9,10,0.9000,0.7778,0.8889,Yes
+E Main and N Lewis,"Carbondale, IL",IL,No,5/27/2022,8/11/2022,76,11,2,13,20,0.6500,0.6923,0.8462,Yes
+Hanley & Dale,"Richmond Heights, MO",MO,Yes,5/16/2022,8/11/2022,87,22,3,25,33,0.7576,0.7600,0.8800,Yes

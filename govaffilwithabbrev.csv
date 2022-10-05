@@ -1,0 +1,52 @@
+﻿location,governorpoliticalaffiliation,state_abbrev,state_fips
+ALABAMA,Republican,AL,1
+ALASKA,Republican,AK,2
+ARIZONA,Republican,AZ,4
+ARKANSAS,Republican,AR,5
+CALIFORNIA,Democrat,CA,6
+COLORADO,Democrat,CO,8
+CONNECTICUT,Democrat,CT,9
+DELAWARE,Democrat,DE,10
+DISTRICT OF COLUMBIA,Democrat,DC,11
+FLORIDA,Republican,FL,12
+GEORGIA,Republican,GA,13
+HAWAII,Democrat,HI,15
+IDAHO,Republican,ID,16
+ILLINOIS,Democrat,IL,17
+INDIANA,Republican,IN,18
+IOWA,Republican,IA,19
+KANSAS,Democrat,KS,20
+KENTUCKY,Democrat,KY,21
+LOUISIANA,Democrat,LA,22
+MAINE,Democrat,ME,23
+MARYLAND,Republican,MD,24
+MASSACHUSETTS,Republican,MA,25
+MICHIGAN,Democrat,MI,26
+MINNESOTA,Democrat,MN,27
+MISSISSIPPI,Republican,MS,28
+MISSOURI,Republican,MO,29
+MONTANA,Republican,MT,30
+NEBRASKA,Republican,NE,31
+NEVADA,Democrat,NV,32
+NEW HAMPSHIRE,Republican,NH,33
+NEW JERSEY,Democrat,NJ,34
+NEW MEXICO,Democrat,NM,35
+NEW YORK,Democrat,NY,36
+NORTH CAROLINA,Democrat,NC,37
+NORTH DAKOTA,Republican,ND,38
+OHIO,Republican,OH,39
+OKLAHOMA,Republican,OK,40
+OREGON,Democrat,OR,41
+PENNSYLVANIA,Democrat,PA,42
+RHODE ISLAND,Democrat,RI,44
+SOUTH CAROLINA,Republican,SC,45
+SOUTH DAKOTA,Republican,SD,46
+TENNESSEE,Republican,TN,47
+TEXAS,Republican,TX,48
+UTAH,Republican,UT,49
+VERMONT,Republican,VT,50
+VIRGINIA,Republican,VA,51
+WASHINGTON,Democrat,WA,53
+WEST VIRGINIA,Republican,WV,54
+WISCONSIN,Democrat,WI,55
+WYOMING,Republican,WY,56
