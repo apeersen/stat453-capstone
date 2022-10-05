@@ -1,0 +1,41 @@
+---
+title: "starbs background"
+author: "anina"
+date: '2022-10-05'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+starbucks_raw <- read_csv("https://www.macalester.edu/~ajohns24/data/starbucks.csv")
+```
+
+
+```{r}
+starbucks <- starbucks_raw %>%
+  filter(Country == "US", 
+         Brand == "Starbucks") %>%
+  mutate(appear = c(1)) %>%
+  group_by(`State/Province`) %>%
+  summarise(StarbsbyState = sum(appear))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
